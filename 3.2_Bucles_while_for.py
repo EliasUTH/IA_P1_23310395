@@ -24,3 +24,4 @@ while var != "n": #Mientras la condición se cumpla seguirá dentro del bucle
         print("De esa no hay.")
         continue
 print("Hasta luego.")
+# También podemos usar un else después de un bucle, ya sea for o while
